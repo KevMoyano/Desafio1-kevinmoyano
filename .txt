@@ -1,0 +1,6 @@
+Buenas. Hago entrega del desafio de JavaScript. Eleji un proyecto bastante extenso, a medida de que iba codeando me di cuenta que podia tener una cantidad de codigo incontable. No queria llenar 
+demasiado el codigo sin tener una primera correcion ya que es posible que tenga algunos errores. 
+
+El codigo deberia funcionar perfecto si seleccionamos de la siguiente manera 1) INTEL - 1) I3 - una vez pasadas esas 2 opciones, sin irnos a 2) AMD o otros I5/I7/I9, todo debe andar perfecto.
+
+Muchas Gracias y un Saludo!!
